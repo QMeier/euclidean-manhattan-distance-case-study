@@ -1,1 +1,1 @@
-# euclidian-manhattan-distance-case-study
+# euclidean-manhattan-distance-case-study
